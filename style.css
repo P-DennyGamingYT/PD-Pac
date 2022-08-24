@@ -1,5 +1,5 @@
 #bod {
-        height: 500px;
+        height: 800px;
         background-color: blue; /* For browsers that do not support gradients */
         background-image: linear-gradient(hotpink, blue);
 }
