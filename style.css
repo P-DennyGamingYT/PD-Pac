@@ -1,19 +1,20 @@
 #bod {
-        height: 800px;
-        background-color: blue; /* For browsers that do not support gradients */
-        background-image: linear-gradient(hotpink, blue);
+    background: rgb(254,0,255);
+    background: linear-gradient(150deg, rgba(254,0,255,1) 0%, rgba(0,212,255,1) 100%);
 }
 
 .title {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
     font-size: 24px;
+    color: white;
 }
 
 .info {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
     font-size: 12px;
+    color: white;
 }
 
 a:link {
